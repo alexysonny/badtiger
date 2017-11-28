@@ -29,9 +29,6 @@ $(document).ready(function () {
   }; */
 
   initialize();
-  initialize();
-  initialize();
-  initialize();
 
   function removeElement (event) {
     /* var elemId = event.data('removeId'); */
